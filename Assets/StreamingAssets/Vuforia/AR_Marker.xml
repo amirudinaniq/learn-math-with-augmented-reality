@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="KDT52" size="0.200000 0.262957" />
+    <ImageTarget name="KDT34" size="0.200000 0.262957" />
+    <ImageTarget name="KTambah1" size="0.500000 0.390968" />
+    <ImageTarget name="KN1" size="0.200000 0.200000" />
+    <ImageTarget name="1" size="0.060000 0.033508" />
+  </Tracking>
+</QCARConfig>

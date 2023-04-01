@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 21137fa289229fd4da0855968dd4dfe2
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 38c80b7f11de77d418bb1cfbf0367843
+  - enabled: 1
+    path: Assets/Scenes/TopicMenu.unity
+    guid: e9406fdd76ab41541b6f20a0edff547e
+  - enabled: 1
+    path: Assets/Scenes/1KenalNombor/ARScene.unity
+    guid: 18fc7505ef783624b98c49180cf5ec34
+  - enabled: 1
+    path: Assets/Scenes/AboutMenu.unity
+    guid: 6e2d9d2f65207c84cb1cbbb97117fa5d
+  - enabled: 1
+    path: Assets/Scenes/1KenalNombor/K_Nombor1.unity
+    guid: 771ed3c86c127284da0387e7895aea30
+  - enabled: 1
+    path: Assets/Scenes/2NilaiTempatDigit/TempatDigit/TempatDigit1.unity
+    guid: 054a79bc670ff624fbf43fa41b8be187
+  - enabled: 1
+    path: Assets/Scenes/2NilaiTempatDigit/TempatDigit/TempatDigit2.unity
+    guid: bf948e34eee46fa4bbb00f12ca61d3c0
+  - enabled: 1
+    path: Assets/Scenes/2NilaiTempatDigit/TempatDigit/TempatDigit3.unity
+    guid: 4acd14079dbeb554eb618f2f3f933f21
+  - enabled: 0
+    path: Assets/Scenes/2NilaiTempatDigit/ARNilaiTD/ArNTD.unity
+    guid: b4dccad573e68954491ee2f175c91db8
+  - enabled: 0
+    path: Assets/Scenes/2NilaiTempatDigit/ARNilaiTD/ARScene.unity
+    guid: 010e72aea06c5994e9f939c5314cff8a
+  - enabled: 1
+    path: Assets/Scenes/2NilaiTempatDigit/UjiDiri/UjiDiri1.unity
+    guid: aed0192ef06da9e4582323af821feb92
+  - enabled: 1
+    path: Assets/Scenes/2NilaiTempatDigit/UjiDiri/UjiDiri1(2).unity
+    guid: e90623d5109a78b4b8ae723e457df160
+  - enabled: 1
+    path: Assets/Scenes/2NilaiTempatDigit/UjiDiri/UjiDiri2.unity
+    guid: fc275f77db79899409c31606f2e0c150
+  - enabled: 1
+    path: Assets/Scenes/2NilaiTempatDigit/UjiDiri/UjiDiri2(2).unity
+    guid: efab1046959f68f4595b690ee443cb66
+  - enabled: 1
+    path: Assets/Scenes/2NilaiTempatDigit/LessonFinish.unity
+    guid: a38170ec677a98d4c9a72fb5759672b3
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/Latihan.unity
+    guid: 6669dc6057c21aa41a4bef3e7c906dce
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/KenaliTambah1.unity
+    guid: f96c1152e466136489404e81e5214d40
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/KenaliTambah2.unity
+    guid: 02e6eddadfa653d40b2eabab73c140c8
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/KenaliTambah3.unity
+    guid: 03a8e085c8725654e818faaaab5b9462
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/KenaliTambah10.unity
+    guid: 7ac421c2f6ca1434a9a9337cbb860639
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/KenaliTambah4.unity
+    guid: 444328ca76b325b489ef9383df329f21
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/KenaliTambah5.unity
+    guid: ce1db57c7cc594a48a1a8947db8922db
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/KenaliTambah6.unity
+    guid: cdd8013d1fd1c7149bfc56dc51e69ed4
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/Kenalitambah7.unity
+    guid: 4028385f96f416241b70fbd013364c26
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/KenaliTambah8.unity
+    guid: 010e2ccda41f9844f82f3bb6f4e0d79c
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/KenaliTambah9.unity
+    guid: b2c234320ea876f44b25a0b833c347bd
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh1/KenaliTambah11.unity
+    guid: 85498373bf1b66948ad345e2d9e0b4a3
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh2/KenaliTambah10.unity
+    guid: 5abd4e7c4dad45c46bbacdc540ad074c
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh2/KenaliTambah11.unity
+    guid: f833e7381dfdd264cbade7cdb67b8bca
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh2/KenaliTambah12.unity
+    guid: 6d76310dfe1d1ea4181b7ed839c71e87
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh2/KenaliTambah13.unity
+    guid: 5faaef969cd224f46a54a85434d0fe47
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh2/KenaliTambah14.unity
+    guid: cdba7e7ac14af8c4d9fe2fd732805689
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/contoh2/KenaliTambah15.unity
+    guid: 43d3c6783e07a7541b064e13911c6de7
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/ARTambah/ARTambah1.unity
+    guid: ad7fd32a052bc6f42bfbcacf1c88e4fb
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/ARTambah/ARTambahScene.unity
+    guid: 9b9825129b55c844ab3bd92cf17d4e28
+  - enabled: 1
+    path: Assets/Scenes/3KenaliTambah/ARTambah/LessonFinish2.unity
+    guid: 0a402cd47156c4a40885f5236792e3b4
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/KTScenes/KenaliTolak1.unity
+    guid: 51ac0bf9b20b01d448d7365f6690fd3a
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/KTScenes/KenaliTolak2.unity
+    guid: 046dad87b5dc5a3439f64295e73bc901
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/KTScenes/KenaliTolak3.unity
+    guid: 453d0712863cb374aa36992bb42836e0
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/KTScenes/KenaliTolak4.unity
+    guid: faca0ad962ff25043a1d07ad0ca5fdf3
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/KTScenes/KenaliTolak5.unity
+    guid: 84f97eee76aeb29438934dfedfe28fa3
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/KTScenes/KenaliTolak6.unity
+    guid: 7d0544f4cbdebb948bd39fceedd9ae73
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/KTScenes/KenaliTolak7.unity
+    guid: 212010fb34d46af4d9da5ab734a7721f
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/KTScenes/KenaliTolak8.unity
+    guid: ebe07307c6f04ba4eba8029319c03eeb
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/KTScenes/KenaliTolak9.unity
+    guid: 0466b5edabb121646980a577e5d9d75f
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/ARScenes/ARTOlak.unity
+    guid: 49524a94e4a7bb74f967ebcb40d27def
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/ARScenes/ARTolakScene.unity
+    guid: 59a0fcac51bdfb941970695576cc2b4d
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/LessonFinish 1.unity
+    guid: 7b2fdafb58eb5e44dab08eda39cda814
+  - enabled: 1
+    path: Assets/Scenes/2NilaiTempatDigit/TempatDigit/TempatDigit4.unity
+    guid: 979c84a9824d51442804573a45c07f8e
+  - enabled: 1
+    path: Assets/Scenes/2NilaiTempatDigit/TempatDigit/TempatDigit5.unity
+    guid: cf25e53ad23ff734e83c3ef980895291
+  - enabled: 1
+    path: Assets/Scenes/4KenaliTolak/KTScenes/KenaliTolak10.unity
+    guid: 2535c33798a8a9a4ba39a0239f98f97f
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/soalan1.unity
+    guid: 7596d68ef817f7b4c8dbf93f3982dd8a
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/1animate.unity
+    guid: 01694f32533c3254daed6945e5b403bf
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/soalan2.unity
+    guid: d3be22eef8a19e54e8afa6b4dd5faaf2
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/2animate.unity
+    guid: 66798c300efba074c981d3030fccffb2
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/soalan3.unity
+    guid: b9e2aff1ba69cb94eab4ae62ae431735
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/3animate.unity
+    guid: d0c8b0f03ed61304eb569c176dbf5297
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/soalan4.unity
+    guid: 51384694071282d4696a85c86325d880
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/4animate.unity
+    guid: 5d17fb38ff32e0846ac718c9f4bfea29
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/soalan5.unity
+    guid: 896570a919cc2884aa6fc49d6a76584a
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/5animate.unity
+    guid: cde71dbcf76cfd74eb2fdac083d9fb3d
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/LessonFinish 2.unity
+    guid: adbc8fdb585bbb34791a3960f2d363f5
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/kenalinombor/soalan1.unity
+    guid: c969589f138f247478fecf5819064412
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/soalan1.unity
+    guid: 5d6aff7592354944ab3ab5a2a9a2ad2c
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/animate1.unity
+    guid: 8741805de11e5304981551d8548596cb
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/soalan2.unity
+    guid: 28c14f51a2d4b254482a909fb1d9cc63
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/animate2.unity
+    guid: c574f414504a0e448916b1e298d2bf8b
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/soalan3.unity
+    guid: 029d80eaac95e044197ec7951905b463
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/animate3.unity
+    guid: 8e695154c3b762e4b8a8073b5094c15a
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/soalan4.unity
+    guid: f68e63452e96d8745b7662ecb296d0f2
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/animate4.unity
+    guid: fa17d8e68d920ac42847fb59d7764b30
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/soalan5.unity
+    guid: 07c150acc5916f44897fc613ecd77e73
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/animate5.unity
+    guid: e5094be3c9888304db5d761bb8131624
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/LessonFinish 3.unity
+    guid: b2506f7740dc4a14e9a9b18375024c0e
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/kenalinombor/1.unity
+    guid: c52febde1559b3546a48289552e91c5e
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tambah/1.unity
+    guid: 1b30f2e6788eb7e41b29d38bfa1b5444
+  - enabled: 1
+    path: Assets/Scenes/5Latihan/tolak/2.unity
+    guid: 79bb47e9b0a52164d98c63d956f956d1
+  m_configObjects: {}
