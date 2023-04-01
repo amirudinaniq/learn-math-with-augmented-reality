@@ -2,4 +2,4 @@
 
 A marker-based AR can get from root/assets/marker.
 
-To see the preview assets, it is located at assets/preview-assets.
+![Alt text](/Assets/preview-assets/preview-1.jpg)
